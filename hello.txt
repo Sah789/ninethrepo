@@ -5,4 +5,5 @@ rate in all front
 rate in all
 rate us 
 all in one 
-gg add
+gg add 
+git add all one
