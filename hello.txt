@@ -7,3 +7,4 @@ rate us
 all in one 
 gg add 
 git add all one
+read all git 
